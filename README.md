@@ -1,7 +1,7 @@
 # Halloweenpeds
 Collection of FiveM ready Halloween evil/horror peds &amp; weapons. 
 
-CFX Forum posting: 
+CFX Forum posting: https://forum.cfx.re/t/halloween-peds-weapons/4929952
 
 Peds
 
